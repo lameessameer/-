@@ -1,0 +1,6 @@
+::ffff:127.0.0.1 - - [19/Jun/2026 14:19:12] "GET / HTTP/1.1" 200 -
+::ffff:127.0.0.1 - - [19/Jun/2026 14:21:06] "GET /index.html HTTP/1.1" 200 -
+::ffff:127.0.0.1 - - [19/Jun/2026 14:21:06] "GET /styles.css HTTP/1.1" 200 -
+::ffff:127.0.0.1 - - [19/Jun/2026 14:21:06] "GET /app.js HTTP/1.1" 200 -
+::ffff:127.0.0.1 - - [19/Jun/2026 14:21:06] "GET /manifest.webmanifest HTTP/1.1" 200 -
+::ffff:127.0.0.1 - - [19/Jun/2026 14:21:06] "GET /service-worker.js HTTP/1.1" 200 -

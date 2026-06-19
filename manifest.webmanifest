@@ -1,0 +1,11 @@
+{
+  "name": "أُفق — تعلّم بطريقتك",
+  "short_name": "أُفق",
+  "description": "منصة تعليمية عربية شاملة مصممة وفق مبادئ UDL",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7f7fb",
+  "theme_color": "#5036d6"
+}
